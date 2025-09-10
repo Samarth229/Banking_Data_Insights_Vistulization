@@ -4,6 +4,8 @@ Overview
 
 This project analyzes and visualizes banking data using Python. It provides insights into customer behavior, financial trends, and marketing campaign effectiveness through interactive visualizations and data analysis techniques.
 
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 Features
 
 • Data preprocessing and cleaning (handling missing values, formatting)
@@ -11,9 +13,13 @@ Features
 • Interactive visualizations using Matplotlib, Seaborn, and Plotly
 • Insights on campaign effectiveness, customer balance trends, and term deposit subscriptions
 
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 Dataset
 
 The project uses a sample banking dataset "banking_data.csv" containing customer information, financial details, and campaign outcomes.
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Dependencies
 
@@ -24,9 +30,13 @@ Dependencies
 • Seaborn
 • Plotly
 
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 Contributing
 
 Feel free to fork the repository and submit pull requests for improvements.
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Contact
 
